@@ -13,6 +13,6 @@ I wrote this during the summer of 2017 as a simple side project to occupy my tim
 To run:
 - download folder
 - with terminal, cd into the directory
-- type "javac Cipher.java"
+- type "javac Cipher.java" ; this will create the Cipher.class file, which is needed to run the program.
 - type "java Cipher"
 - follow the instructions in the program.
