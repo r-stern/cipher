@@ -10,3 +10,9 @@ The program outputs the ciphertext of s beva oegsdi
 
 I wrote this during the summer of 2017 as a simple side project to occupy my time. It is not perfectly secure and should not be used for passwords, etc but was simply a novelty project to occupy my time.
 
+To run:
+- download folder
+- with terminal, cd into the directory
+- type "javac Cipher.java"
+- type "java Cipher"
+- follow the instructions in the program.
