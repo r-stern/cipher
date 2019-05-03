@@ -4,7 +4,7 @@
  * Description: Cipher personal project
  */
 
-package cipher;
+/* package cipher; */
 
 import java.util.LinkedHashSet;
 import java.util.Scanner;
